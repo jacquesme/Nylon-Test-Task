@@ -5,7 +5,7 @@
     <a class="w-full" href="#">
 
         <div class="image relative">
-          <img src="/img/man.png" class="absolute sm:static absolute-expand object-contain object-bottom top-auto" />
+          <img src="img/man.png" class="absolute sm:static absolute-expand object-contain object-bottom top-auto" />
         </div>
       <div class="">
         <p class="text-xs my-4 mx-0 uppercase">Entertainment</p>

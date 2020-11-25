@@ -11,7 +11,7 @@
       </div>
       <div class="">
         <div class="">
-          <img src="/img/woman.png" class="w-full" alt="" />
+          <img src="img/woman.png" class="w-full" alt="" />
         </div>
       </div>
     </a>

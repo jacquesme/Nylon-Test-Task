@@ -6,7 +6,7 @@
       <a class="w-full" href="#">
         <div class="">
           <div class="">
-            <img src="/img/yellow.png" />
+            <img src="img/yellow.png" />
           </div>
         </div>
         <div class="">

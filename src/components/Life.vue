@@ -5,7 +5,7 @@
     <a class="w-full" href="#">
       <div class="">
         <div class="">
-          <img src="/img/moon.png" />
+          <img src="img/moon.png" />
         </div>
       </div>
       <div class="">
